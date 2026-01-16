@@ -52,11 +52,10 @@ This repository hosts the **public-facing landing page** for CostIQ.
 The diagnostic workflow and analysis logic are maintained privately.
 
 Live site:  
-👉 **https://awesomeatif.github.io/costiq
-**
+https://awesomeatif.github.io/costiq
 ---
 
 ## Contact
 
 For pilot diagnostics or inquiries:  
-📩 Use the request form on the website
+ Use the request form on the website
