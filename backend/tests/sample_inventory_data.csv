@@ -1,0 +1,10 @@
+sku,item_description,location,quantity_on_hand,unit_cost,expiry_date,daily_usage_rate,department
+SKU101,Surgical Gloves Box,Storage A,500,15.99,2026-02-15,5,Surgery
+SKU102,Syringes 10ml,Storage B,800,8.50,2026-01-20,20,Emergency
+SKU103,Bandages Large,Storage A,350,12.00,2026-01-15,8,Emergency
+SKU104,IV Saline Bags,ICU Storage,900,5.25,2026-01-10,30,ICU
+SKU105,Blood Pressure Cuffs,Cardiology,25,45.00,,0.5,Cardiology
+SKU106,Antiseptic Solution,Storage B,400,7.75,2026-03-15,10,Emergency
+SKU107,Surgical Masks Box,Storage A,1200,22.00,2026-04-30,25,Surgery
+SKU108,Expired Reagent,Lab Storage,100,55.00,2026-01-01,2,Lab
+SKU109,Overstocked Item,Warehouse,2000,10.00,,5,General

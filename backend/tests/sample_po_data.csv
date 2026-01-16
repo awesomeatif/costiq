@@ -1,0 +1,11 @@
+vendor_name,item_sku,item_description,unit_price,quantity,contract_price,po_number,department
+Medical Supplies Inc,SKU001,Surgical Gloves Box,15.99,100,,PO-001,Surgery
+HealthCare Wholesale,SKU001,Surgical Gloves Box,18.99,50,,PO-002,Pediatrics
+PharmaCorp,SKU001,Surgical Gloves Box,22.50,75,,PO-003,ICU
+Medical Supplies Inc,SKU002,Syringes 10ml,8.50,500,8.00,PO-004,Emergency
+HealthCare Wholesale,SKU002,Syringes 10ml,9.50,300,8.00,PO-005,Surgery
+PharmaCorp,SKU003,IV Saline Bags,5.25,1000,5.00,PO-006,ICU
+Medical Supplies Inc,SKU003,IV Saline Bags,6.50,500,5.00,PO-007,Emergency
+MedEquip Ltd,SKU004,Blood Pressure Cuffs,45.00,25,40.00,PO-008,Cardiology
+MedEquip Ltd,SKU004,Blood Pressure Cuffs,52.00,10,40.00,PO-009,Emergency
+HealthCare Wholesale,SKU005,Bandages Large,12.00,200,,PO-010,Emergency
