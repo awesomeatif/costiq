@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/awesomeatif/costiq/stargazers"><img src="https://img.shields.io/github/stars/awesomeatif/costiq?style=flat-square&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/awesomeatif/costiq/network/members"><img src="https://img.shields.io/github/forks/awesomeatif/costiq?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/awesomeatif/costiq/issues"><img src="https://img.shields.io/github/issues/awesomeatif/costiq?style=flat-square&color=red" alt="Issues"></a>
-  <a href="https://github.com/awesomeatif/costiq/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
+  <a href="https://github.com/buildwithatif/costiq/stargazers"><img src="https://img.shields.io/github/stars/buildwithatif/costiq?style=flat-square&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/buildwithatif/costiq/network/members"><img src="https://img.shields.io/github/forks/buildwithatif/costiq?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/buildwithatif/costiq/issues"><img src="https://img.shields.io/github/issues/buildwithatif/costiq?style=flat-square&color=red" alt="Issues"></a>
+  <a href="https://github.com/buildwithatif/costiq/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/awesomeatif/costiq.git
+git clone https://github.com/buildwithatif/costiq.git
 cd costiq
 
 # Navigate to backend
@@ -242,9 +242,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Atif** - [@awesomeatif](https://github.com/awesomeatif)
+**Atif** - [@buildwithatif](https://github.com/buildwithatif)
 
-🌐 **Live Site**: [https://awesomeatif.github.io/costiq](https://awesomeatif.github.io/costiq)
+🌐 **Live Site**: [https://buildwithatif.github.io/costiq](https://buildwithatif.github.io/costiq)
 
 ---
 

@@ -26,7 +26,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
    ```
 3. **Add upstream remote**:
    ```bash
-   git remote add upstream https://github.com/awesomeatif/costiq.git
+   git remote add upstream https://github.com/buildwithatif/costiq.git
    ```
 
 ## 💡 How Can I Contribute?
